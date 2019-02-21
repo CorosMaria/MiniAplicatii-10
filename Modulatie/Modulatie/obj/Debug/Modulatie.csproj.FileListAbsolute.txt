@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\obj\Debug\modulatie.Form1.resources
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\obj\Debug\Modulatie.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\obj\Debug\Modulatie.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\bin\Debug\Modulatie.exe
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\bin\Debug\Modulatie.pdb
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\obj\Debug\Modulatie.exe
+D:\MARIA\Programare\Aplicatii\Modulatie\Modulatie\obj\Debug\Modulatie.pdb
